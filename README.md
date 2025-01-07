@@ -1,15 +1,15 @@
-### 멈추지 않는 개발자가 되겠습니다.
+# 멈추지 않는 개발자가 되겠습니다.
 
 ## SeoInWoo
-# Contact
+### Contact.
 - Email. samseo2910@naver.com
 - Phone. 010-5481-2910
-# Channel.
-- Github.
-- Pedlet. 
-# 성공회대학교
->컴퓨터공학 전공
->디지털콘텐츠 전공
+### Channel.
+- Github. https://github.com/ISiwooI
+- Pedlet. https://padlet.com/samseo29101/padlet-kd9in0a4qasc8vws
+### Education.
+- 성공회대학교 컴퓨터공학 전공
+- 성공회대학교 디지털콘텐츠 전공
 
 
 ## TechStack
