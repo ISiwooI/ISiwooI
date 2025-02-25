@@ -8,8 +8,8 @@
 - Github. https://github.com/ISiwooI
 - Pedlet. https://padlet.com/samseo29101/padlet-kd9in0a4qasc8vws
 ### Education.
-- 성공회대학교 컴퓨터공학 전공
-- 성공회대학교 디지털콘텐츠 전공
+- 성공회대학교 컴퓨터공학 전공(2025-02 졸업)
+- 성공회대학교 디지털콘텐츠 전공(2025-02 졸업)
 
 ### TechStack
 
