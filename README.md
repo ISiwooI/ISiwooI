@@ -5,8 +5,8 @@
 - Email. samseo2910@naver.com
 - Phone. 010-5481-2910
 ### Channel.
-- Github. https://github.com/ISiwooI
-- Pedlet. https://padlet.com/samseo29101/padlet-kd9in0a4qasc8vws
+- [Github](https://github.com/ISiwooI)
+- [Pedlet](https://padlet.com/samseo29101/padlet-kd9in0a4qasc8vws)
 ### Education.
 - 성공회대학교 컴퓨터공학 전공(2025-02 졸업)
 - 성공회대학교 디지털콘텐츠 전공(2025-02 졸업)
@@ -30,6 +30,8 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![SQLPlus](https://img.shields.io/badge/SQLPlus-blue?style=for-the-badge)
+
+### [Projects](https://github.com/stars/ISiwooI/lists/my-stack)
 
 <!--
 **ISiwooI/ISiwooI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
