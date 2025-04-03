@@ -2,7 +2,7 @@
 
 ## Seo inwoo
 ### Contact.
-- Email. samseo2910@naver.com
+- Email. samseo2910@outlook.kr
 - Phone. 010-5481-2910
 ### Channel.
 - [Github](https://github.com/ISiwooI)
